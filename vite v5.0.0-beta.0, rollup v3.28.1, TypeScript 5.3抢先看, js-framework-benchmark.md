@@ -1,5 +1,6 @@
 ---
 title: 'vite v5.0.0-beta.0, rollup v3.28.1, TypeScript 5.3抢先看, js-framework-benchmark'
+date: '2023-08-25'
 ---
 
 ### 发布
@@ -41,11 +42,8 @@ title: 'vite v5.0.0-beta.0, rollup v3.28.1, TypeScript 5.3抢先看, js-framewor
 
 以下是选取了部分主流框架的性能对比
 
-![framework-benchmark](/images/framework-benchmark.jpg)
+![framework-benchmark](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qqzmMm3X68PjX90pB2uV6sAKJfhkZ6X7p6Bp19iaKFLKDbvGTshIxJjGPDfUucR02wtHx1HWTVa1IkMvt7cwtKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 > nuxt devtools 2k star
 
 [Nuxt DevTools](https://devtools.Nuxtjs.org) 是一个可视化工具，在使用`Nuxt`开发应用中提供可视化界面，要求`Nuxt`版本在`3.1.0`及以上。在 8 月 21 号 Nuxt Devtools 的 github star 数量来到了 2k。
-
-![nuxtdevtool](/images/nuxtdevtool.jpg)
-(图取自官方)

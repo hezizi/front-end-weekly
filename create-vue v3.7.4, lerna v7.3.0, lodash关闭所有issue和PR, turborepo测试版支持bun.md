@@ -1,5 +1,6 @@
 ---
 title: 'create-vue v3.7.4, lerna v7.3.0, lodash关闭所有issue和PR, turborepo测试版支持bun'
+date: '2023-09-17'
 ---
 
 ### 发布
@@ -17,11 +18,7 @@ title: 'create-vue v3.7.4, lerna v7.3.0, lodash关闭所有issue和PR, turborepo
 
 `lodash`关闭了所有 issue 和 PR，并打上`issue bankruptcy`的 tag。
 
-![lodash](/images/lodash.jpg)
-
 lodash 创建者表示正在开发`lodash v5`。
-
-![lodash](/images/lodash_5.jpg)
 
 > Turborepo 现在对 Bun 提供测试版支持
 
@@ -31,8 +28,6 @@ lodash 创建者表示正在开发`lodash v5`。
 - `bunx create-turbo@latest`
 
 如果之前已全局安装了`turbo`，请使用与以前相同的包管理器进行升级。
-
-![trubo_bun](/images/trubo_bun.jpg)
 
 > Node.js 16 EOL，请升级到 Node.js 18
 

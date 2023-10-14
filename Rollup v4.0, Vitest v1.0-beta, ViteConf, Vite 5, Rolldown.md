@@ -1,5 +1,6 @@
 ---
 title: 'Rollup v4.0, Vitest v1.0-beta, ViteConf, Vite 5, Rolldown'
+date: '2023-10-06'
 ---
 
 ### 发布

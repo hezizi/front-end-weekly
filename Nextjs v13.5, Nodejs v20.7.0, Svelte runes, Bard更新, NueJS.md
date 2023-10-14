@@ -1,5 +1,6 @@
 ---
 title: 'Nextjs v13.5, Nodejs v20.7.0, Svelte runes, Bard更新, NueJS'
+date: '2023-09-22'
 ---
 
 ### 发布
@@ -101,4 +102,4 @@ export default function Page() {
 
 支持将两个 emoji 根据各自特征合并生成一个新 emoji，新增 🍎,🍗,🧈,🍢,🍡,🥟,🍭,🍮,🍯,🥛 等众多 emoji。
 
-![emojikitchen](/images/emojikitchen.png)
+![emojikitchen](https://mmbiz.qpic.cn/sz_mmbiz_png/qqzmMm3X68PYIZibXibouw6RksDRTodRfcS8DzKIknFsK47h8WJiafUkNIZwgzkibJRibyCgOUUMYSOvECD3zficFALA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)

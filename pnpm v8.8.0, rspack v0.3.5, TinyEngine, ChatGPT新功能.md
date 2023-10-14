@@ -1,5 +1,6 @@
 ---
 title: 'pnpm v8.8.0, rspack v0.3.5, TinyEngine, ChatGPT新功能'
+date: '2023-09-28'
 ---
 
 ### 发布

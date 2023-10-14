@@ -1,5 +1,6 @@
 ---
 title: 'swc1.3.78, create-vue3.7.3, TS5.3包体积减小, Bun1.0即将推出'
+date: '2023-08-20'
 ---
 
 ### 发布
@@ -31,4 +32,4 @@ Bun 作为近两年新推出的 JavaScript 运行时，经过不断更新迭代�
 
 > 100% shell
 
-![100shell](/images/100shell.jpg)
+![100shell](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qqzmMm3X68Piccbhu1r10RD33gbRQWSNibRKrhw8kHxlesoaEhiatXz1fbyDenbo2LdBO1BkBB8xXiaFLeSL4nh9Gw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

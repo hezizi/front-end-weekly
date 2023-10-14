@@ -1,5 +1,6 @@
 ---
 title: 'rollup v3.29.0, vant v4.6.7, Deno Deploy原生npm支持, Bun v1.0'
+date: '2023-09-08'
 ---
 
 ### 发布
@@ -43,4 +44,4 @@ app.listen(3000)
 
 根据官方给出的基准测试，`Bun`速度快到一骑绝尘，干啥都快。中国时间大概今晚 11 点`1.0`版本发布
 
-![bun1.0](/images/bun1.0.jpg)
+![bun1.0](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qqzmMm3X68Nws9icRYW3VfUoSWib2TUsE7lNFrmm2X1sqxAJaGjfNCpn3pwibatF1ubIicEWYk5M7uZpMXW0yibIYdg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

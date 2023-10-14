@@ -1,5 +1,6 @@
 ---
 title: 'lerna v7.2.0, pnpm v8.7.0, astro v3.0, markdown-it-mdc'
+date: '2023-09-02'
 ---
 
 ### 发布
