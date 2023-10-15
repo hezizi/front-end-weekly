@@ -8,4 +8,4 @@
 
 ### 前端周刊
 
-![前端周刊](./yuci_gzh.jpg)
+![前端周刊](./assets/yuci_gzh.jpg)
