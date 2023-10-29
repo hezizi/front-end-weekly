@@ -8,6 +8,7 @@
 
 ### 往期周刊
 
+- [Axios v1.6、Rspress v1.2、Nutui v4.2、Next.js 14、Yarn 4.0 发布](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-10-29.md)
 - [Node.js 21、Nuxt v3.8.0、Storybook v7.5、wasp 新特性、The State of WebAssembly 2023](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-10-22.md)
 - [electron v27.0、pnpm v8.9、commander.js v11.1、No Build、Rspress](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-10-13.md)
 - [Rollup v4.0, Vitest v1.0-beta、ViteConf、Vite 5、Rolldown](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-10-06.md)
