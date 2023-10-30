@@ -20,6 +20,6 @@
 - [vite v5.0.0-beta.0、rollup v3.28.1、TypeScript 5.3 抢先看、js-framework-benchmark](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-08-25.md)
 - [swc1.3.78、create-vue3.7.3、TS5.3 包体积减小、Bun1.0 即将推出](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-08-20.md)
 
-### 前端周刊
+### 公众号【前端仓库】
 
 ![前端仓库](./assets/yuci_gzh.jpg)
