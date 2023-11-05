@@ -1,12 +1,16 @@
 ## Front-End Weekly
 
-每周前端圈发生的那些事儿
+> 记录每周前端圈发生的那些事儿
 
 公众号【前端仓库】同步，关注第一时间获取每周前端资讯
 
-👇
+扫码公众号看 👇
 
-### 往期周刊
+### 前端仓库
+
+![前端仓库](./assets/yuci_gzh.jpg)
+
+### 每期周刊
 
 - [Bun 1.0.9、Rspress 1.5、NuxtUI 2.10、Docusaurus 3、Oh My Zsh、jQuery 4](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-05.md)
 - [Axios v1.6、Rspress v1.2、Nutui v4.2、Next.js 14、Yarn 4.0 发布](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-10-29.md)
@@ -20,7 +24,3 @@
 - [lerna v7.2.0、pnpm v8.7.0、astro v3.0、markdown-it-mdc](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-09-02.md)
 - [vite v5.0.0-beta.0、rollup v3.28.1、TypeScript 5.3 抢先看、js-framework-benchmark](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-08-25.md)
 - [swc1.3.78、create-vue3.7.3、TS5.3 包体积减小、Bun1.0 即将推出](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-08-20.md)
-
-### 公众号【前端仓库】
-
-![前端仓库](./assets/yuci_gzh.jpg)
