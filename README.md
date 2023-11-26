@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [Lerna 8、NuxtUI 2.11、Windows Terminal Chat、JetBrains 2023 开发者报告、Rspack 0.4 发布](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-26.md)
 - [Vite 5、Rust 重写 Prettier 悬赏、Octoverse 2023、GitHub Copilot in the CLI](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-19.md)
 - [vueuse 10.6、commander.js 12、Angular 17、GPT-4 Turbo、Monaspace](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-12.md)
 - [Bun 1.0.9、Rspress 1.5、NuxtUI 2.10、Docusaurus 3、Oh My Zsh、jQuery 4](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-05.md)
