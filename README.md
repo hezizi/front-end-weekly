@@ -8,7 +8,7 @@
 
 ### 前端仓库
 
-![前端仓库](./assets/yuci_gzh.jpg)
+![前端仓库](./assets/gzh.jpg)
 
 ### 每期周刊
 
