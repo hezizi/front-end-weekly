@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [Mongoose 8、Storybook 7.6、Biome 赢得 Prettier 挑战、State of JavaScript 2023 问卷、Deno Cron](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-03.md)
 - [Lerna 8、NuxtUI 2.11、Windows Terminal Chat、JetBrains 2023 开发者报告、Rspack 0.4 发布](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-26.md)
 - [Vite 5、Rust 重写 Prettier 悬赏、Octoverse 2023、GitHub Copilot in the CLI](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-19.md)
 - [vueuse 10.6、commander.js 12、Angular 17、GPT-4 Turbo、Monaspace](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-12.md)
