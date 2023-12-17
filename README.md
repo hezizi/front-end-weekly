@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [Million 3.0、SvelteKit 2.0、Deno WebGPU 回归、Vue2 EOL、Arc for Windows、Oxlint](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-17.md)
 - [Redux 5、AVA 6、create-vue 3.9、Astro 4、Electron 28、Windows 10 EOS、代码小浣熊](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-10.md)
 - [Mongoose 8、Storybook 7.6、Biome 赢得 Prettier 挑战、State of JavaScript 2023 问卷、Deno Cron](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-03.md)
 - [Lerna 8、NuxtUI 2.11、Windows Terminal Chat、JetBrains 2023 开发者报告、Rspack 0.4 发布](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-11-26.md)
