@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [StyleX 0.4.1、Vue 3.4、Nuxt 3.9、NodeToDenoChallenge、Vue DevTools、Rolldown 开发情况](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-31.md)
 - [date-fns 3、TailwindCSS 3.4、Fedora Asahi Remix、V8、Firefox 121、2023 年最受欢迎的 Chrome 扩展](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-24.md)
 - [Million 3.0、SvelteKit 2.0、Deno WebGPU 回归、Vue2 EOL、Arc for Windows、Oxlint](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-17.md)
 - [Redux 5、AVA 6、create-vue 3.9、Astro 4、Electron 28、Windows 10 EOS、代码小浣熊](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-10.md)
