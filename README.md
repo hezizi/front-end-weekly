@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [Rspack 0.5、LangChain 0.1、GPT Store、import.meta.dirname、TwoSlash](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-14.md)
 - [Bun 1.0.21、Astro 4.1、2023 年前端项目热度榜单、最喜爱的 Warp 功能](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-07.md)
 - [StyleX 0.4.1、Vue 3.4、Nuxt 3.9、NodeToDenoChallenge、Vue DevTools、Rolldown 开发情况](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-31.md)
 - [date-fns 3、TailwindCSS 3.4、Fedora Asahi Remix、V8、Firefox 121、2023 年最受欢迎的 Chrome 扩展](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-24.md)
