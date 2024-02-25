@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [25. ECharts 5.5、Astro 4.4、Remix 2.7、React Labs 2024、Warp 发布 Linux 版](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-02-25.md)
 - [24. Deno 1.40、Shikiji 0.10、Bun for Windows、React Conf 2024、Rsdoctor、Zed](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-28.md)
 - [23. Next.js 14.1、Angular 17.1、Bun Shell、QAnything、Deno Survey](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-21.md)
 - [22. Rspack 0.5、LangChain 0.1、GPT Store、import.meta.dirname、TwoSlash](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-14.md)
