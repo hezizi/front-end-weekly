@@ -18,7 +18,7 @@
 - [24. Deno 1.40、Shikiji 0.10、Bun for Windows、React Conf 2024、Rsdoctor、Zed](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-28.md)
 - [23. Next.js 14.1、Angular 17.1、Bun Shell、QAnything、Deno Survey](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-21.md)
 - [22. Rspack 0.5、LangChain 0.1、GPT Store、import.meta.dirname、TwoSlash](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-14.md)
-- [21.Bun 1.0.21、Astro 4.1、2023 年前端项目热度榜单、最喜爱的 Warp 功能](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-07.md)
+- [21. Bun 1.0.21、Astro 4.1、2023 年前端项目热度榜单、最喜爱的 Warp 功能](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-07.md)
 - [20. StyleX 0.4.1、Vue 3.4、Nuxt 3.9、NodeToDenoChallenge、Vue DevTools、Rolldown 开发情况](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-31.md)
 - [19. date-fns 3、TailwindCSS 3.4、Fedora Asahi Remix、V8、Firefox 121、2023 年最受欢迎的 Chrome 扩展](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-24.md)
 - [18. Million 3.0、SvelteKit 2.0、Deno WebGPU 回归、Vue2 EOL、Arc for Windows、Oxlint](https://github.com/hezizi/front-end-weekly/blob/main/src/2023-12-17.md)
