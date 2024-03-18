@@ -12,6 +12,7 @@
 
 ### 每期周刊
 
+- [27. Hono 4.1、Remix Dev Tools 4、TailwindCSS 4.0 进展、Fresh 2.0 即将发布、WinterJS 发布 1.0](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-03-19.md)
 - [26. Parcel 2.12、Babel 7.24、JSR、Vercel AI SDK 3.0、Node.js 吉祥物](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-03-03.md)
 - [25. ECharts 5.5、Astro 4.4、Remix 2.7、React Labs 2024、Warp 发布 Linux 版](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-02-25.md)
 - [24. Deno 1.40、Shikiji 0.10、Bun for Windows、React Conf 2024、Rsdoctor、Zed](https://github.com/hezizi/front-end-weekly/blob/main/src/2024-01-28.md)
